@@ -1,2 +1,2 @@
-# Projeto-curriculo
+# Projeto curriculo
  Hilton Jr
